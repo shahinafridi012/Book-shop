@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co/gZsFCX5/kindpng-4945926-1-1.png",
+      "review": "A thrilling page-turner with an unexpected twist.",
+      "totalPages": 336,
+      "rating": 4.3,
+      "category": "Thriller",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "image": "https://i.ibb.co/cK5WRmM/kindpng-5624060-1-1.png",
+      "review": "A mesmerizing tale of survival and mystery.",
+      "totalPages": 384,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Mystery", "Drama"],
+      "publisher": "G.P. Putnam's Sons",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 3,
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "https://i.ibb.co/4FDm3Yy/kindpng-1064993.png",
+      "review": "A powerful memoir of a woman who escapes her survivalist family.",
+      "totalPages": 352,
+      "rating": 4.7,
+      "category": "Memoir",
+      "tags": ["Inspirational", "Biography"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 4,
+      "bookName": "Becoming",
+      "author": "Michelle Obama",
+      "image": "https://i.ibb.co/gdLkGnV/kindpng-7318921.png",
+      "review": "An intimate, powerful, and inspiring memoir by the former First Lady of the United States.",
+      "totalPages": 448,
+      "rating": 4.9,
+      "category": "Biography",
+      "tags": ["Inspirational", "Political"],
+      "publisher": "Crown Publishing Group",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "image": "https://i.ibb.co/j8wGQqz/pngwing-1.png",
+      "review": "A spellbinding novel where a magical competition is underway.",
+      "totalPages": 512,
+      "rating": 4.1,
+      "category": "Fantasy",
+      "tags": ["Magic", "Romance"],
+      "publisher": "Doubleday",
+      "yearOfPublishing": 2011
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://i.ibb.co/6v7LHNT/download-1.png",
+      "review": "A philosophical story about following your dreams.",
+      "totalPages": 208,
+      "rating": 4.5,
+      "category": "Adventure",
+      "tags": ["Inspirational", "Spiritual"],
+      "publisher": "HarperOne",
+      "yearOfPublishing": 1988
+    }
+  ]
+  
