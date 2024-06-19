@@ -1,11 +1,14 @@
 
 import { CiStar } from "react-icons/ci";
 import PropTypes from 'prop-types';
+import { Link } from "react-router-dom";
 
 const Books = ({ book }) => {
-    const { bookName, author, image, rating, category, tags, publisher, yearOfPublishing } = book;  // Destructuring the book object to extract bookName and author
+    const { bookName, author, image, rating, category, tags, publisher, yearOfPublishing, id } = book;  // Destructuring the book object to extract bookName and author
 
     return (
+     
+        <Link to={`/details/${id}`}>
         <div>
             
             <div className="card w-96 bg-base-100 shadow-xl">
@@ -33,6 +36,8 @@ const Books = ({ book }) => {
   </div>
 </div>
         </div>
+        </Link>
+     
     );
 };
 
