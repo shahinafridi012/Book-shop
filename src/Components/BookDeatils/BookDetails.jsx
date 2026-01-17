@@ -4,7 +4,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { saveJobApplication } from "../../Utility";
 
-
+// book details page
 const BookDetails = () => {
     const deatils = useLoaderData();
     const {id} = useParams();
